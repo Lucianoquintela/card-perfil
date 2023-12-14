@@ -1,3 +1,3 @@
 # tela-perfil
 Site de card de perfil<br>
-Tecnologias usadas HTML,CSS
+Tecnologias usadas HTML,CSS e JS
